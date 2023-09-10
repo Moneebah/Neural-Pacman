@@ -1,5 +1,5 @@
 # Neural-Pacman
-Development and training of Pacman and its ghosts for gameplay - currently under progress.
+Development and training of Pacman and its ghosts for gameplay using neural networks - currently under progress.
 
 # Interface
 ![pacman](https://github.com/Moneebah/Neural-Pacman/assets/129015993/7c129df1-f892-4e47-abd9-693a0af640d7)
