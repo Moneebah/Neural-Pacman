@@ -1,2 +1,2 @@
 # Neural-Pacman
-Making the Pacman game and then training both the ghosts and Pacman to play the game - in progress
+Development and training of Pacman and its ghosts for gameplay - currently under progress.
